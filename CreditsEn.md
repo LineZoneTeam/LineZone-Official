@@ -1,25 +1,25 @@
 # Credits
-## Developer
+## Developers
 - Leq (Bell)
 
-## Technical Supporter
+## Technical Supporters
 - Leq (Bell)
 - Mringer
 - MaxZhiFlame
 
-## Level creator
+## Level Creators
 Name | Creator
 ---|---
 Begin | Leq
 Ocean | Leq
 Sunset | Leq
-Cold Night | Marios1Gr
+The Cold Night | Marios1Gr
 
-## Main Beta Tester
+## Main Beta Testers
 - Mob.
 - Jim Tsai
 
-## Translator
+## Translators
 - Leq - Chinese, Vietnamese.
 - Jim Tsai - Tawainese.
 
@@ -31,7 +31,7 @@ Cold Night | Marios1Gr
 - AoC's Team
 
 ## Note
-- Dear to you, please do not copy our game ideas, if there is a case, please contact us. Adventure of Cube is not a place to copy ideas.
-- Adventure of Cube is not an official game of Cheetah Mobile, it's just a fan-game by AoC's Team. Based on Dancing Line.
+- Please do not copy our game ideas. If you suspect that someone might be copying us, please contact us.
+- Adventure of Cube is not affiliated with Cheetah Mobile; it's just a fan-game by AoC's Team that is based on Dancing Line.
 
 ### Chinese: [Here](https://github.com/Leq4342/Adventure-of-Cube/edit/main/CreditsCn.md)
