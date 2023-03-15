@@ -8,7 +8,7 @@
 - MaxZhiFlame
 
 ## Level Creators
-Name | Creator
+Level Name | Creator
 ---|---
 Begin | Leq
 Ocean | Leq
@@ -20,10 +20,13 @@ The Cold Night | Marios1Gr
 - Jim Tsai
 
 ## Translators
-- Leq - Chinese, Vietnamese.
-- Jim Tsai - Tawainese.
+Language | Translator
+---|---
+Chinese | Leq
+Vietnamese | Leq
+Taiwanese | Jim Tsai
 
-## Original game & Game creator
+## Original Game & Game Creator
 ### - Original
 - Cheetah Mobile
 - Boombit
