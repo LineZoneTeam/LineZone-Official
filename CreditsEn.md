@@ -1,6 +1,7 @@
 # Credits
 ## Developers
 - Leq (Bell)
+- Marios1Gr
 
 ## Technical Supporters
 - Leq (Bell)
