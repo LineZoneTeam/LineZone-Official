@@ -33,7 +33,8 @@ The Cold Night | Marios1Gr
 <summary>More</summary>
 
 ## You can view somethings here...
-- Discord: discord.gg/qdmdeqGmde
+- YouTube: https://www.youtube.com/@AdventureOfCube/featured
+- Discord: https://discord.gg/qdmdeqGmde
 - Credits (English): https://github.com/Leq4342/Adventure-of-Cube/blob/main/CreditsEn.md
 - Credits (Chinese): https://github.com/Leq4342/Adventure-of-Cube/blob/main/CreditsCn.md
 
