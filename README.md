@@ -1,5 +1,5 @@
 # Adventure-of-Cube
-![alt text](https://github.com/Leq4342/Adventure-of-Cube/blob/main/%5BMd%5D/natural.jpg)
+![alt text](https://github.com/Leq4342/Adventure-of-Cube/blob/main/%5BMd%5D/BannerGitHub.png)
 ## What is Adventure of Cube?
 > Adventure of Cube is a Dancing Line fan-game that was created by Bell The Cube, but it was discontinued in 2022 due to some issues. Now, development has been resumed and a new version is going to be realeased soon!
 
