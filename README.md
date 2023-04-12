@@ -22,7 +22,8 @@
 
 <details>
 <summary>关卡名称 | Levels</summary>
-- 游戏中4级的信息。Information of 4 level in game.
+- 游戏中4级的信息。Information about the 4 levels in the game.
+
 关卡名称 Level Name | 造物主 Creator
 ---|---
 开始 Begin | Leq
@@ -35,7 +36,7 @@
 <details>
 <summary>更多的 More</summary>
 
-## 你可以在这里查看一些东西。You can view somethings here...
+## 你可以在这里查看一些东西。You can view more things here...
 - YouTube频道 YouTube: https://www.youtube.com/@AdventureOfCube/featured
 - 不和谐服务器 Discord: https://discord.gg/qdmdeqGmde
 - 学分（英语）| Credits (English): https://github.com/Leq4342/Adventure-of-Cube/blob/main/CreditsEn.md
