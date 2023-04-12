@@ -38,4 +38,4 @@ Taiwanese | Jim Tsai
 - Please do not copy our game ideas. If you suspect that someone might be copying us, please contact us.
 - Adventure of Cube is not affiliated with Cheetah Mobile; it's just a fan-game by AoC's Team that is based on Dancing Line.
 
-### Chinese: [Here](https://github.com/Leq4342/Adventure-of-Cube/edit/main/CreditsCn.md)
+### Chinese: [Here](https://github.com/Leq4342/Adventure-of-Cube/blob/main/CreditsCn.md)
