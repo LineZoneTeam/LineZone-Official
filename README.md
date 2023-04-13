@@ -1,4 +1,4 @@
-# 线区 LineZone
+# 线区 LineZone Collections Levels
 ![alt text](https://github.com/Leq4342/LineZone/blob/main/%5BMd%5D/LZ.png)
 ## 什么是LineZone | What is LineZone?
 - LineZone (Adventure of Cube) 是一款由 Bell The Cube 创作的 Dancing Line 粉丝游戏，但由于一些问题于 2022 年停产。现在已经恢复开发，新版本即将发布！
