@@ -2,7 +2,7 @@
 ![alt text](https://github.com/its-Bell/LineZone/blob/91f0d41ee691d0093306bca2786584cdd6191662/%5BMd%5D/LineZonePreviewImage.png)
 ## 什么是LineZone | What is LineZone?
 - LineZone (Adventure of Cube) 是一款由 Bell The Cube 创作的 Dancing Line 粉丝游戏，但由于一些问题于 2022 年停产。现在已经恢复开发，新版本即将发布！
-- LineZone (Adventure of Cube) is a Dancing Line fan-game that was created by Bell The Cube, but it was discontinued in 2022 due to some issues. Now, development has been resumed and a new version is going to be realeased soon!
+- LineZone (Adventure of Cube) is a Dancing Line fan-game that was created by Bell The Cube, but it was discontinued in 2022 due to some issues. Now, development has been resumed and a new version is going to be released soon!
 
 <details>
 <summary>常问问题 | FAQ</summary>
@@ -16,13 +16,13 @@
 - Use your mouse / space bar (or the touch screen if you're playing on a phone) to tap to the rhythm.
 
  ### 我可以免费下载 LZ 吗？Can I download LZ for free?
-- 当然，您可以免费下载. Sure, you can download it for free.
+- 当然，您可以免费下载. Yes, it's completely free.
 
 </details>
 
 <details>
 <summary>关卡名称 | Levels</summary>
-- 游戏中4级的信息。Information about the 4 levels in the game.
+- 游戏中4级的信息。Information about the levels in the game.
 
 关卡名称 Level Name | 造物主 Creator
 ---|---
