@@ -7,7 +7,7 @@
 <details>
 <summary>常问问题 | FAQ</summary>
 
- ### LZ 有几级？How many levels are in AoC?
+ ### LZ 有几级？How many levels are in LineZone?
 - LineZone 目前有 **4** 关卡，但我们计划在未来添加更多关卡。
 - There are currently **4** levels in LineZone, but we are planning to add more levels in the future.
 
@@ -15,7 +15,7 @@
 - 使用鼠标/空格键（如果您在手机上玩，则使用触摸屏）来配合节奏。
 - Use your mouse / space bar (or the touch screen if you're playing on a phone) to tap to the rhythm.
 
- ### 我可以免费下载 LZ 吗？Can I download LZ for free?
+ ### 我可以免费下载 LZ 吗？Can I download LineZone for free?
 - 当然，您可以免费下载. Yes, it's completely free.
 
 </details>
