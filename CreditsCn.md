@@ -1,38 +1,41 @@
-# 学分
+# 制作人员名单
 ## 开发者
-- Leq（贝尔）
+- Bell
 - Marios1Gr
 
 ## 技术支持
-- Leq（贝尔）
-- 先生
-- MaxZhiFlame
+- SUNJY
+- Mringer
+- Max智焰
 
-## 关卡创建者
-名称 |造物主
+## 关卡制作者
+关卡名称 | 制作者
 ---|---
-开始| Leq（贝尔）
-海洋 |Leq（贝尔）
-日落 |Leq（贝尔）
-冷夜 | Marios1Gr
+序言 | Bell
+海洋 | Bell
+黄昏 | Bell
+寒夜 | Marios1Gr
 
-## 主要 Beta 测试员
-- 暴民。
-- 吉姆蔡
+## Beta版测试人员
+- Mob.
+- Jim Tsai
 
-## 译者
-- Leq - 中国人，越南人。
-- Jim Tsai - 台湾人。
+## 翻译者
+语言 | 翻译者
+---|---
+简体中文 | Leq
+越南文 | Leq
+繁体中文 | Jim Tsai
 
-## 原创游戏和游戏创作者
-## - 原来的
-- Cheetah Mobile
+## 原作游戏 & 游戏制作者
+### - 原作
+- 猎豹移动
 - Boombit
-### - 创作者
-- AoC 团队
+### - 制作者
+- LZ团队
 
-## 笔记
-- 亲爱的，请不要复制我们的游戏创意，如果有这种情况，请与我们联系。 Adventure of Cube 不是复制创意的地方。
-- Adventure of Cube 不是猎豹移动的官方游戏，它只是 AoC 团队的一款粉丝游戏。基于跳舞的线。
-
-### English: [Here](https://github.com/Leq4342/Adventure-of-Cube/blob/main/CreditsEn.md)
+## 注意
+- 请勿抄袭本游戏创意，如果您怀疑有人抄袭，请联系我们
+- Line Zone不属于猎豹移动；它只是由LZ团队制作的基于《跳舞的线》的饭制游戏
+  
+### English: [点这里](https://github.com/phous0105/LineZone-Official/blob/main/CreditsEn.md)
