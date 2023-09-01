@@ -8,6 +8,7 @@ ___
 ## 2. How many level in the game?
 ***Currently, there are 8 levels in the game (with 2 (under construction) levels and 2 upcoming levels). Wait for that uwu you guys***
 ## More questions are coming soon!
+uwu
 ___
 # Credits
 ***There are 2 languages version of this credit and you can view the main credit here***
