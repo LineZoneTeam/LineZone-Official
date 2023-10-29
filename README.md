@@ -4,19 +4,19 @@ ___
 ___
 # Frequently asked questions
 ## 1. What is Line Zone?
-***Line Zone is a Dancing Line Fan-made from Line Zone Team. The game has many interesting levels with a lot of amazing feature. The game was made by [Marios1Gr](https://github.com/Marios1Gr) and [Bell](https://github.com/phous0105).***
-## 2. How many level in the game?
-***Currently, there are 8 levels in the game (with 2 (under construction) levels and 2 upcoming levels). Wait for that uwu you guys***
-## More questions are coming soon!
+***Line Zone is a Dancing Line fan-made game from the Line Zone Team. The game has many interesting levels with tons of amazing features. The game was made by [Bell](https://github.com/phous0105) and [Marios1Gr](https://github.com/Marios1Gr).***
+## 2. How many levels are in the game?
+***Currently, there are 8 levels in the game (with 2 being worked on and 2 other planned levels). Wait for that uwu you guys***
+## More questions & answers are coming soon!
 ***uwu***
 ___
 # Credits
-***There are 2 languages version of this credit and you can view the main credit here***
+***The credits are available in 2 languages for your convenience***
 > ***[English](https://github.com/LineZoneTeam/LineZone-Official/blob/main/CreditsEn.md).***
 
 > ***[Chinese](https://github.com/LineZoneTeam/LineZone-Official/blob/main/CreditsCn.md).***
 
-***(Level creator wont be credited here)***
+***(Level creators won't be credited here)***
 ## Founders
 - ***[Bell](https://github.com/phous0105)***
 - ***[Marios1Gr](https://github.com/Marios1Gr)***
