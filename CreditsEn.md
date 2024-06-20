@@ -1,20 +1,28 @@
 # Credits
+### Chinese: [Here](https://github.com/LineZoneTeam/LineZone-Official/blob/main/CreditsCn.md)
+
 ## Developers
 - Leq (Bell)
 - Marios1Gr
 
-## Technical Supporters
-- Leq (Bell)
-- Mringer
-- MaxZhiFlame
+## Technical Support
+- FireCloudStudio
+- MaxStudio
+- GoddessStudio
+- JITS Studio
 
 ## Level Creators
 Level Name | Creator
 ---|---
-Begin | Leq
+Prologue | Leq
 Ocean | Leq
+Reverse Clock | Leq
+Cold Night | Marios1Gr
 Sunset | Leq
-The Cold Night | Marios1Gr
+World | Dju de la va & LZTeam
+Space | MaxIceFlame
+Trip | Marios1Gr
+Kingdom of Octavia | GP0108
 
 ## Main Beta Testers
 - Mob.
@@ -23,19 +31,17 @@ The Cold Night | Marios1Gr
 ## Translators
 Language | Translator
 ---|---
-Chinese | Leq
 Vietnamese | Leq
-Taiwanese | Jim Tsai
+Simplified Chinese | Max冰焰
+Traditional Chinese | Max冰焰
+Greek | Marios1Gr
+Ukrainian | FANGO
 
-## Original Game & Game Creator
-### - Original
+## Original Game
+### - Developers
 - Cheetah Mobile
 - Boombit
-### - Creator
-- AoC's Team
 
 ## Note
 - Please do not copy our game ideas. If you suspect that someone might be copying us, please contact us.
-- Adventure of Cube is not affiliated with Cheetah Mobile; it's just a fan-game by AoC's Team that is based on Dancing Line.
-
-### Chinese: [Here](https://github.com/Leq4342/Adventure-of-Cube/blob/main/CreditsCn.md)
+- Line Zone is not affiliated with Cheetah Mobile; it's just a fan-game by the Line Zone Team that is based on Dancing Line.
