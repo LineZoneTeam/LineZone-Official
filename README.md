@@ -11,9 +11,9 @@ ___
 ___
 # Credits
 ***The full credits are available in 2 languages for your convenience***
-> ***[English](https://github.com/LineZoneTeam/LineZone-Official/blob/main/CreditsEn.md).***
+> ***[English](https://github.com/LineZoneTeam/LineZone-Official/blob/main/CreditsEn.md)***
 
-> ***[Chinese](https://github.com/LineZoneTeam/LineZone-Official/blob/main/CreditsCn.md).***
+> ***[Chinese](https://github.com/LineZoneTeam/LineZone-Official/blob/main/CreditsCn.md)***
 
 ## Founders
 - ***[Bell](https://github.com/phous0105)***
