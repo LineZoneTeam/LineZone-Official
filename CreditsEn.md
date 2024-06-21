@@ -15,14 +15,12 @@
 Level Name | Creator
 ---|---
 Prologue | Leq
-Ocean | Leq
-Reverse Clock | Leq
 Cold Night | Marios1Gr
-Sunset | Leq
-World | Dju de la va & LZTeam
 Space | MaxIceFlame
-Trip | Marios1Gr
+World | Dju de la va & LZTeam
+Reverse Clock | Leq
 Kingdom of Octavia | GP0108
+Trip | Marios1Gr
 
 ## Main Beta Testers
 - Mob.
