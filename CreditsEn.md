@@ -20,6 +20,7 @@ Space | MaxIceFlame
 World | Dju de la va & LZTeam
 Reverse Clock | Goddess7996
 Kingdom of Octavia | GP0108
+Dreamer | Max冰焰 & qxxqxx
 Trip | Marios1Gr
 
 ## Main Beta Testers
