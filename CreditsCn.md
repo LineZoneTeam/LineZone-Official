@@ -15,14 +15,12 @@
 关卡名称 | 制作者
 ---|---
 序言 | Leq
-海洋 | Leq
-逆时钟 | Leq
 寒夜 | Marios1Gr
-黄昏 | Leq
-世界 | Dju de la va & LZTeam
 空间 | MaxIceFlame
-旅途 | Marios1Gr
+世界 | Dju de la va & LZTeam
+逆时钟 | Goddess7996
 奥克塔维亚王国 | GP0108
+旅途 | Marios1Gr
 
 ## Beta版测试人员
 - Mob.
